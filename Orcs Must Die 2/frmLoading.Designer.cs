@@ -65,7 +65,7 @@ namespace Orcs_Must_Die_2
             this.MinimumSize = new System.Drawing.Size(241, 91);
             this.Name = "frmLoading";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Orcs Must Die 2";
+            this.Text = "Orcs Must Die 2 By AHICTF";
             this.Load += new System.EventHandler(this.frmLoading_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
